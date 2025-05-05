@@ -8,4 +8,4 @@ I do hope the self hostable git forges start looking into community features, po
 - Get updates from other users (new repos etc.)
 - Maybe even sign into each other's instances or otherwise be able to interact/contribute without creating a user there (I guess openid could possibly fill that role)
 
-...and somethings gists-like woul be nice.
+...and something gists-like would be nice too.
