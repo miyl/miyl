@@ -1,4 +1,4 @@
-I've cleaned up my account and moved from GitHub to other git forges, disagreeing with the direction GitHub has taken for many years now. Octocat deserves better.
+I've finally cleaned up my account and moved from GitHub to other git forges, disagreeing with the direction GitHub has taken for many years now. Octocat deserves better.
 
 I do hope the self hostable git forges start looking into community features, possibly fediverse inspired, like e.g. GitHub has, such as being able to: 
 - Cross forge search!! Ie. there are search indexes, themselves self hostable, that the self hosted forges may opt to connect to. Through them you can search for content on other instances, as if they are on your own instance!
